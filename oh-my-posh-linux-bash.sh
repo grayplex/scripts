@@ -12,6 +12,6 @@ wget https://raw.githubusercontent.com/grayplex/scripts/main/if_tea.omp.json -O 
 #rm ~/.poshthemes/themes.zip
 
 
-echo 'eval "$(oh-my-posh init bash --config ~/.poshthemes/.if_tea.omp.json)"' >> ~/.bashrc
+echo 'eval "$(oh-my-posh init bash --config ~/.poshthemes/if_tea.omp.json)"' >> ~/.bashrc
 
 exec bash
